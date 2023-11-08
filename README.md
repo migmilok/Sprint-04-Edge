@@ -1,4 +1,4 @@
-# Sensor Temperatura e Umidade ESP32
+# Sensor Temperatura e Umidade MQTT
 
 # Integrantes
 Márcio Gastaldi - RM98811
